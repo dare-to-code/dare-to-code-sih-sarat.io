@@ -15,7 +15,6 @@ body {
   background-size: cover;
 } 
 
-/* hamburger menu start*/
 
 #menu{
   position: fixed;
@@ -59,10 +58,7 @@ body {
 }
 
 
-/*hamburger menu end*/
 
-
-/* side nav bar start*/
 
 
 .navbar{
@@ -95,11 +91,6 @@ body {
 
 
 
-/*side nav bar ends*/
-
-
-
-/*heading main start*/
 .heading{
   padding-top: 15px;
   padding-bottom: 20px;
@@ -119,9 +110,6 @@ body {
 }
 
 
-/*heading main end*/
-
-/*center content start*/
 
 .wrapper{
   margin-top: 40px;
